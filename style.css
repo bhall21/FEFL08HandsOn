@@ -1,0 +1,17 @@
+body{
+    background-color: plum;
+}
+
+.list{
+     margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+   
+}
+.id{
+   background-color: orange;
+   text-align: center;
+}
+.input{
+    color: red;
+}
